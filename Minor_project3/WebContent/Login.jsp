@@ -131,7 +131,7 @@ function validation(){
        
 </div>
         <button type="submit" class="btn btn-primary">Login</button><br><br>
-        <input type="button" onclick="window.location.href = 'OwnerLogin.jsp';" value="Owner Login" class="btn btn-primary">
+        <input type="button" onclick="window.location.href = '#';" value="Owner Login" class="btn btn-primary">
        
     </form>
     </div>
